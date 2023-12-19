@@ -1,9 +1,5 @@
 # 70 Days of Code Challenge
 
-<p align="center">
-  <img src="link-to-your-banner-image" alt="Code Challenge Banner">
-</p>
-
 Hey there! 👋 Welcome to my 70 Days of Code Challenge repository. Here, I'm embarking on a coding adventure for the next 70 days, and you're invited to join me on this journey.
 
 ## Overview
