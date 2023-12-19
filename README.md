@@ -8,7 +8,7 @@ Hey there! 👋 Welcome to my 70 Days of Code Challenge repository. Here, I'm em
 
 ## Overview
 
-This repository is a daily chronicle of my coding progress, projects, and discoveries over the next 70 days. Through this challenge, I aim to elevate my coding skills, tackle interesting projects, and share insights with the coding community.
+This repository serves as a daily log of my coding progress, projects, and thoughts during the 70-day challenge. My aim is to level up my coding skills, work on diverse projects, and share insights gained along the way.
 
 ## What's Inside?
 
