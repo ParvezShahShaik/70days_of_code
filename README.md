@@ -34,12 +34,8 @@ Each day has its dedicated folder containing:
 ## Daily Logs
 
 ### [Day 1](Day_01/Log.md)
-- Recap of the day's coding adventures.
-- Challenges faced and conquered.
-- Nuggets of wisdom gained.
 
-### [Day 2](Day_02/Log.md)
-- ...
+Expect daily logs detailing my coding adventures, challenges faced, and lessons learned. From conquering bugs to celebrating breakthroughs, these logs capture the essence of each day's coding exploration.
 
 ## Join the Adventure
 
